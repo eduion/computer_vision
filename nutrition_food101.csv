@@ -1,0 +1,102 @@
+food101_class,query_name,protein_g,fat_g,carbs_g,kcal,calcium_mg,vitaminA_ug,vitaminC_mg
+apple_pie,apple pie,1.77,15.0,54.0,354.0,0.0,0.0,0.0
+baby_back_ribs,baby back ribs,18.8,9.82,0.0,170.0,26.0,0.0,0.0
+baklava,baklava,6.58,29.34,37.55,440.0,40.0,,1.3
+beef_carpaccio,beef carpaccio,5.0,65.0,10.0,600.0,0.0,,
+beef_tartare,beef tartare,17.45,15.6,0.34,216.0,28.0,,0.2
+beet_salad,beet salad,1.32,5.29,11.0,93.0,18.0,441.0,13.2
+beignets,beignets,5.46,20.18,53.69,417.0,90.0,,1.1
+bibimbap,bibimbap,5.5,2.44,8.11,76.0,25.0,,10.5
+bread_pudding,bread pudding,4.04,4.55,42.4,222.0,,,
+breakfast_burrito,breakfast burrito,8.13,7.77,26.2,198.0,7.0,530.0,4.2
+bruschetta,bruschetta,4.29,7.61,21.32,171.0,50.0,,7.9
+caesar_salad,caesar salad,5.91,15.8,7.48,189.0,157.0,4130.0,16.5
+cannoli,cannoli,6.32,14.7,42.1,328.0,21.0,0.0,0.0
+caprese_salad,caprese salad,5.76,10.5,9.42,152.0,79.0,,
+carrot_cake,carrot cake,2.35,25.9,47.1,424.0,24.0,1470.0,0.0
+ceviche,ceviche,10.53,0.76,3.58,63.0,22.0,,18.6
+cheesecake,cheesecake,5.31,23.0,39.8,381.0,51.0,,
+cheese_plate,cheese plate,6.46,11.5,15.6,192.0,146.0,254.0,
+chicken_curry,chicken curry,6.48,6.48,6.54,107.0,20.0,,8.9
+chicken_quesadilla,chicken quesadilla,14.2,10.6,22.1,239.0,221.0,265.0,1.1
+chicken_wings,chicken wings,18.6,18.6,0.0,283.0,0.0,0.0,0.0
+chocolate_cake,chocolate cake,3.03,22.7,57.6,439.0,30.0,0.0,0.0
+chocolate_mousse,chocolate mousse,1.19,23.8,19.0,269.0,36.0,0.0,0.7
+churros,churros,6.05,22.21,48.87,419.0,110.0,,1.2
+clam_chowder,clam chowder,3.67,8.57,6.53,118.0,41.0,408.0,3.7
+club_sandwich,club sandwich,15.98,7.65,21.38,220.0,79.0,,0.1
+crab_cakes,crab cakes,14.2,16.8,7.08,239.0,111.0,,
+creme_brulee,creme brulee,4.06,2.83,17.85,113.0,115.0,,0.0
+croque_madame,croque madame,15.0,7.5,70.0,375.0,0.0,0.0,0.0
+cup_cakes,cup cakes,2.22,13.3,60.0,356.0,222.0,0.0,0.0
+deviled_eggs,deviled eggs,10.7,25.0,0.0,286.0,0.0,714.0,0.0
+donuts,donuts,3.51,17.5,61.4,404.0,175.0,0.0,0.0
+dumplings,dumplings,9.21,1.97,23.7,145.0,26.0,263.0,6.3
+edamame,edamame,11.8,4.71,7.06,106.0,59.0,,
+eggs_benedict,eggs benedict,13.81,22.1,8.48,288.0,58.0,,1.4
+escargots,escargots,19.99,6.91,2.48,158.0,13.0,,0.0
+falafel,falafel,8.28,41.19,28.96,514.0,86.0,,7.3
+filet_mignon,filet mignon,15.2,15.2,0.0,196.0,0.0,89.0,0.0
+fish_and_chips,fish and chips,11.0,16.2,21.7,277.0,16.0,18.0,0.0
+foie_gras,foie gras,8.93,35.7,3.57,357.0,0.0,13400.0,0.0
+french_fries,french fries,2.38,8.33,22.6,179.0,0.0,0.0,2.9
+french_onion_soup,french onion soup,4.21,3.51,6.32,70.0,88.0,140.0,2.1
+french_toast,french toast,7.02,3.51,28.1,175.0,58.0,,
+fried_calamari,fried calamari,13.76,13.22,14.06,234.0,39.0,,2.9
+fried_rice,fried rice,3.33,5.0,31.7,183.0,0.0,0.0,0.0
+frozen_yogurt,frozen yogurt,3.12,8.33,21.9,177.0,104.0,417.0,0.0
+garlic_bread,garlic bread,5.26,7.89,36.8,246.0,0.0,351.0,0.0
+gnocchi,gnocchi,3.33,0.0,33.3,150.0,0.0,0.0,1.0
+greek_salad,greek salad,1.88,4.7,4.08,66.0,31.0,4080.0,3.8
+grilled_cheese_sandwich,grilled cheese sandwich,11.5,12.8,31.4,288.0,224.0,64.0,5.8
+grilled_salmon,grilled salmon,18.1,3.45,0.86,103.0,34.0,86.0,1.0
+guacamole,guacamole,3.33,13.3,10.0,150.0,0.0,333.0,12.0
+gyoza,gyoza,3.33,0.0,33.3,133.0,,,
+hamburger,hamburger,3.53,3.53,41.2,212.0,0.0,0.0,0.0
+hot_and_sour_soup,hot and sour soup,2.58,1.21,4.35,39.0,19.0,,0.0
+hot_dog,hot dog,19.3,14.0,1.75,211.0,35.0,263.0,2.1
+huevos_rancheros,huevos rancheros,6.68,6.65,8.85,121.0,44.0,,1.0
+hummus,hummus,7.14,28.6,21.4,321.0,71.0,357.0,8.6
+ice_cream,ice cream,3.08,10.8,24.6,200.0,123.0,308.0,0.0
+lasagna,lasagna,5.53,4.15,10.1,101.0,92.0,,6.9
+lobster_bisque,lobster bisque,2.86,12.2,6.53,147.0,61.0,408.0,0.5
+lobster_roll_sandwich,lobster roll sandwich,20.91,0.95,0.0,97.0,106.0,,0.0
+macaroni_and_cheese,macaroni and cheese,3.53,2.35,18.0,110.0,41.0,,
+macarons,macarons,10.0,23.3,53.3,467.0,83.0,,
+miso_soup,miso soup,1.92,0.8,2.08,26.0,27.0,,
+mussels,mussels,15.06,2.84,4.67,109.0,33.0,,8.1
+nachos,nachos,11.2,13.33,19.87,242.0,61.0,,0.0
+omelette,omelette,1.6,0.8,11.2,56.0,8.0,,
+onion_rings,onion rings,2.35,11.8,28.2,235.0,47.0,0.0,0.0
+oysters,oysters,4.95,10.75,18.4,189.0,97.0,,1.8
+pad_thai,pad thai,4.0,4.0,26.0,155.0,35.0,,
+paella,paella,13.3,3.33,82.2,422.0,67.0,1330.0,8.0
+pancakes,pancakes,6.45,2.42,53.2,274.0,97.0,161.0,0.0
+panna_cotta,panna cotta,3.0,10.0,30.0,220.0,150.0,,
+peking_duck,peking duck,5.32,11.76,6.47,154.0,9.0,,12.2
+pho,pho,5.81,3.33,5.6,77.0,9.0,,1.0
+pizza,pizza,6.8,8.84,32.0,238.0,102.0,136.0,6.1
+pork_chop,pork chop,18.37,9.04,7.82,190.0,15.0,,0.3
+poutine,poutine,10.3,6.9,69.0,379.0,129.0,,
+prime_rib,prime rib,0.0,0.0,0.0,0.0,,,
+pulled_pork_sandwich,pulled pork sandwich,13.2,4.42,18.7,168.0,44.0,264.0,0.2
+ramen,ramen,12.7,2.73,63.6,327.0,36.0,727.0,1.1
+ravioli,ravioli,12.1,7.09,23.4,213.0,248.0,284.0,0.0
+red_velvet_cake,red velvet cake,31.2,9.38,43.8,312.0,156.0,0.0,0.0
+risotto,risotto,12.9,1.43,109.0,157.0,0.0,0.0,0.0
+samosa,samosa,5.14,17.47,33.16,310.0,33.0,,0.4
+sashimi,sashimi,19.7,0.34,4.08,102.0,,,
+scallops,scallops,15.2,0.89,2.68,89.0,23.0,,
+seaweed_salad,seaweed salad,0.0,5.36,28.6,125.0,143.0,357.0,4.3
+shrimp_and_grits,shrimp and grits,8.38,7.33,7.85,126.0,37.0,,
+spaghetti_bolognese,spaghetti bolognese,6.09,6.6,7.61,112.0,46.0,,
+spaghetti_carbonara,spaghetti carbonara,18.0,10.0,58.0,400.0,200.0,600.0,0.0
+spring_rolls,spring rolls,3.71,1.11,27.1,135.0,,,
+steak,steak,0.0,0.0,111.0,556.0,0.0,0.0,0.0
+strawberry_shortcake,strawberry shortcake,2.96,13.3,31.1,274.0,44.0,296.0,6.7
+sushi,sushi,2.92,0.67,18.39,94.0,6.0,,0.9
+tacos,tacos,6.69,9.17,15.1,170.0,95.0,62.0,
+takoyaki,takoyaki,,,,,,,
+tiramisu,tiramisu,5.65,23.86,29.44,353.0,65.0,,1.1
+tuna_tartare,tuna tartare,17.45,15.6,0.34,216.0,28.0,,0.2
+waffles,waffles,2.86,10.0,48.6,300.0,0.0,0.0,0.0
